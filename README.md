@@ -24,4 +24,5 @@
  4. run following commands :
  
      npm install 
+     
      npm start or react-scripts start
